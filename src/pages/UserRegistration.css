@@ -1,0 +1,16 @@
+.user-registration{
+    border-radius: 8px;
+
+    /*Vertically center*/
+    /*margin: 0;*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.validation-errors{
+    font-size: 0.8571em;
+    margin-bottom: 5px;
+}
